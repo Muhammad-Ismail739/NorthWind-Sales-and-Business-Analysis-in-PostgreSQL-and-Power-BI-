@@ -1,4 +1,4 @@
-# Sales Analytics Project – PostgresSQL & Power BI
+# NorthWind Sales and Business Analysis – PostgresSQL & Power BI
 This project analyzes sales performance by utilizing both SQL analysis and an interactive Power BI dashboard. The objective is to determine customer behavior, the profitability of products, and how well products perform based on regions while uncovering functional practice patterns such as shipping, product pairings, etc. With the SQL queries and Power BI visualizations combined, there is a full understanding of how the organization earns revenue, where it is successful, and where opportunities for change exist. 
 # Project Goals:
 1: Utilize SQL queries to analyze sales data and draw value from analytical insights.
